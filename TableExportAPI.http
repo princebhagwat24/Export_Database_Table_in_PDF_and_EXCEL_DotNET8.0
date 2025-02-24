@@ -1,0 +1,6 @@
+@TableExportAPI_HostAddress = http://localhost:5062
+
+GET {{TableExportAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
